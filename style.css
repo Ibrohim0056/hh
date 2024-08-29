@@ -1,0 +1,35 @@
+body {
+  background-color: #2a5d5a;
+}
+.box5 {
+  width: 896px;
+  height: 259px;
+  top: 289px;
+  gap: 0px;
+  opacity: 0px;
+  background: #1fe8b7;
+  margin: 30px;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 29.05px;
+}
+
+.box3 {
+  width: 1000px;
+  height: 638px;
+  top: 193px;
+  left: 220px;
+  gap: 0px;
+  border: 10px solid red;
+  opacity: 0px;
+  background-color: black;
+}
+
+.box2 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  width: 270px;
+  margin-left: 530px;
+}
